@@ -7,7 +7,7 @@
  * and for the multiples of five prints Buzz
  * Return: Always 0 (Success)
  */
-int main()
+int main(void)
 {
 	int i;
 
@@ -30,5 +30,7 @@ int main()
 			printf(" %d", i);
 		}
 	}
+	printf("\n");
+
 	return (0);
 }

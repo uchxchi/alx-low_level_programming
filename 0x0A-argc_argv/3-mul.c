@@ -15,9 +15,7 @@ int main(int argc, char *argv[])
 	{
 		multiply = atoi(argv[1]) * atoi(argv[2]);
 		printf("%d\n", multiply);
-	} else if (argc < 3 || argc > 3)
+	} else if (argc != 3)
 		printf("Error\n");
 		return (1);
-
-	return (0);	
 }

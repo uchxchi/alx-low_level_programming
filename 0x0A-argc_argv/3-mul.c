@@ -17,5 +17,5 @@ int main(int argc, char *argv[])
 		printf("%d\n", multiply);
 	} else if (argc != 3)
 		printf("Error\n");
-		return (1);
+	return (1);
 }

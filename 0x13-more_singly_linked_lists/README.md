@@ -1,1 +1,1 @@
-0x13. C - More singly linked lists
+Solutions for tasks on more singly lineked lists

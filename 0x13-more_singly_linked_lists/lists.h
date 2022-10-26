@@ -5,6 +5,7 @@
 /**
 * struct listint_t - singly linked list.
 * @n: integer.
+* @next: the next member of the list.
 */
 typedef struct listint_t
 {
